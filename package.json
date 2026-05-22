@@ -1,0 +1,13 @@
+{
+  "name": "lovday-hub-webhook",
+  "version": "1.0.0",
+  "description": "Webhook Luna Checkout + API para portal de creators Lovday",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
